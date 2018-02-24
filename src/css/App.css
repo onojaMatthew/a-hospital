@@ -1,0 +1,29 @@
+.cover{
+  background: url("../asset/home-bg.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.startBtn:hover{
+    outline: 3px solid #654edd;
+    outline-offset: 4px;
+    transition: 0.2s;
+    height: 57px;
+    width: 192px;
+}
+.menu{
+    transition: all 0.2s ease 0s;
+}
+.HowItWorks{
+    background:linear-gradient( rgba(9, 5, 5, 0.77)100%, rgb(0, 0, 0) 100%),  url("../asset/factory.jpg") no-repeat center center fixed !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 0px;
+    padding: 100px 1px 100px 1px !important;
+}
+.OurServices{
+    width: 43px !important;
+}
