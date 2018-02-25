@@ -21,7 +21,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    border-radius: 0px;
+    border-radius: 0;
     padding: 100px 1px 100px 1px !important;
 }
 .OurServices{
